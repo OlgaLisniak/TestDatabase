@@ -1,0 +1,14 @@
+G:\ISD\dotnetCoreDB\DBTest\DBTest\bin\Debug\DBTest.exe.config
+G:\ISD\dotnetCoreDB\DBTest\DBTest\bin\Debug\DBTest.exe
+G:\ISD\dotnetCoreDB\DBTest\DBTest\bin\Debug\DBTest.pdb
+G:\ISD\dotnetCoreDB\DBTest\DBTest\bin\Debug\Dapper.dll
+G:\ISD\dotnetCoreDB\DBTest\DBTest\bin\Debug\Dapper.xml
+G:\ISD\dotnetCoreDB\DBTest\DBTest\obj\Debug\DBTest.csprojResolveAssemblyReference.cache
+G:\ISD\dotnetCoreDB\DBTest\DBTest\obj\Debug\DBTest.Db.resources
+G:\ISD\dotnetCoreDB\DBTest\DBTest\obj\Debug\DBTest.Properties.Resources.resources
+G:\ISD\dotnetCoreDB\DBTest\DBTest\obj\Debug\DBTest.csproj.GenerateResource.Cache
+G:\ISD\dotnetCoreDB\DBTest\DBTest\obj\Debug\DBTest.csproj.CoreCompileInputs.cache
+G:\ISD\dotnetCoreDB\DBTest\DBTest\obj\Debug\DBTest.exe
+G:\ISD\dotnetCoreDB\DBTest\DBTest\obj\Debug\DBTest.pdb
+G:\ISD\dotnetCoreDB\DBTest\DBTest\bin\Debug\Database1.mdf
+G:\ISD\dotnetCoreDB\DBTest\DBTest\bin\Debug\Database1_log.ldf
